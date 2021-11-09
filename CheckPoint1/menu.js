@@ -106,5 +106,5 @@ let menuMicrondas = false
 }
 
 
-    console.log(menuMicrondas(2,5));
+    menuMicrondas(2,5);
 
