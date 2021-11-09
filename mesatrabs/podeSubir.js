@@ -13,7 +13,7 @@ function podeSubir (altura,acompanhante){
             //return true
             console.log("Acesso Autorizado somente com acompanhante");
 
-        }
+        }   
         else if(altura <1.20){
             podeSubir = false
             //return false;
