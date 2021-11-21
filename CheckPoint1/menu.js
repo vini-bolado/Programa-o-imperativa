@@ -106,5 +106,5 @@ let menuMicrondas = false
 }
 
 
-    menuMicrondas(2,5);
+    menuMicrondas(2,5);  
 

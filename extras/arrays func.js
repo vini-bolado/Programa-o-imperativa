@@ -8,27 +8,27 @@ let produtosCompra = ["carne","legumes","verduras"]
 
 // pop elimina oultimo elemento do array
 
-    // produtosCompra.pop()
+     produtosCompra.pop()
 
-    // console.log(produtosCompra);
+     console.log(produtosCompra);
 
 //push - adiciona elemento
 
-    // produtosCompra.push("racao");
+     produtosCompra.push("racao");
 
-    // console.log(produtosCompra);
+     console.log(produtosCompra);
 
 //shift - elimina o primeiro
 
-    // produtosCompra.shift();
+     produtosCompra.shift();
 
-    // console.log(produtosCompra);
+     console.log(produtosCompra);
 
 //unshifth adiciona elementos ao inicia da array
 
-    // produtosCompra.unshift("racao");
+     produtosCompra.unshift("racao");
         
-    // console.log(produtosCompra);
+     console.log(produtosCompra);
 
 
 
