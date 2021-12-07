@@ -91,3 +91,4 @@ const arquivos = [
     console.log("A media de Altura mulheres:" +media_altura)
   
     console.log("O numero de Homens é : "+contador2)
+
