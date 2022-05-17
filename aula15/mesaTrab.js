@@ -15,7 +15,7 @@ function converteArray(jason) {
         clientes.push(jason[i]);        
     }
     return clientes
-}
+} 
 
 let banco = {
     clientes: converteArray(json),
